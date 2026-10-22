@@ -4,13 +4,12 @@ Projekt porównuje skuteczność nowoczesnego podejścia opartego na Głębokich
 
 > **Podsumowanie:** YOLOv8 z preprocessingiem CLAHE osiąga znacznie lepsze wyniki niż klasyczne podejście, osiągając **mAP@0.5 na poziomie 0.96**.
 
-![Przykładowa detekcja](
+**Przykładowa detekcja**
 <p align="center">
-<img width="300"" alt="obraz" src="https://github.com/user-attachments/assets/40a03bf4-383c-4512-bffe-7c0cf8823194" />
-<img width="300" alt="obraz" src="https://github.com/user-attachments/assets/bba16ac8-564c-4d18-b5f6-7d0ea2b2392d" />
-<img width="300" alt="obraz" src="https://github.com/user-attachments/assets/5aec1ef3-877c-445d-ba6c-3a4373985b4b" />
-</p>)
-
+  <img width="270" alt="Detekcja 1" src="https://github.com/user-attachments/assets/40a03bf4-383c-4512-bffe-7c0cf8823194" />
+  <img width="270" alt="Detekcja 2" src="https://github.com/user-attachments/assets/bba16ac8-564c-4d18-b5f6-7d0ea2b2392d" />
+  <img width="270" alt="Detekcja 3" src="https://github.com/user-attachments/assets/5aec1ef3-877c-445d-ba6c-3a4373985b4b" />
+</p>
 
 
 ## Zakres projektu
